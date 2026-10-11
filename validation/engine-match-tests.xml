@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jengacode.kingfischer.EngineMatchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-10T23:51:04.250Z" hostname="50a3eef09be7" time="6.397">
+  <properties/>
+  <testcase name="ratingsHaveDistinctBoundedEffort" classname="com.jengacode.kingfischer.EngineMatchTest" time="0.001"/>
+  <testcase name="twoRatedEnginesCanPlayAndExportAReplayableGame" classname="com.jengacode.kingfischer.EngineMatchTest" time="6.396"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

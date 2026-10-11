@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jengacode.kingfischer.ChessIntegrationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-10T23:51:03.274Z" hostname="50a3eef09be7" time="0.973">
+  <properties/>
+  <testcase name="pgnRoundTrip" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.03"/>
+  <testcase name="bundledNetworkSearchReturnsLegalMove" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.883"/>
+  <testcase name="checkmateAndRepetition" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.002"/>
+  <testcase name="startingMoveGeneration" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.04"/>
+  <testcase name="castlingAndPromotionNotation" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.009"/>
+  <testcase name="historySnapshotDoesNotChangeCurrentGame" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.001"/>
+  <testcase name="illegalMovesRejected" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.004"/>
+  <testcase name="variationAndComments" classname="com.jengacode.kingfischer.ChessIntegrationTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
